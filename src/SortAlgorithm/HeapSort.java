@@ -1,3 +1,5 @@
+package SortAlgorithm;
+
 public class HeapSort {
     public void heapSort(int[] entry){
         int lastUnsorted;

@@ -1,3 +1,5 @@
+package JianZhiOffer;
+
 public class FindDuplicateNumberInArr {
 
 

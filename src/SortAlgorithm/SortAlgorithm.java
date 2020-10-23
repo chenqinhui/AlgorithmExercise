@@ -1,3 +1,5 @@
+package SortAlgorithm;
+
 public class SortAlgorithm {
     public void insertSort(int[] arr){
         for(int i=1;i<arr.length;i++){

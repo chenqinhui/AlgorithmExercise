@@ -1,3 +1,5 @@
+package JianZhiOffer;
+
 public class FindInSortedMatrix {
     public boolean solution(int target,int[][] matrix){
         int row = matrix.length;

@@ -1,15 +1,17 @@
+package JianZhiOffer;
+
 public class Singleton {
     // 1.懒汉式
 //    // 构造方法私有化
-//    private Singleton(){}
+//    private DesignPattern.Singleton(){}
 //    //类内部创建实例
-//    private static Singleton instance = null;
+//    private static DesignPattern.Singleton instance = null;
 //    //双重检查加锁
-//    public static Singleton getInstance(){
+//    public static DesignPattern.Singleton getInstance(){
 //        if(instance==null){
-//            synchronized (Singleton.class){
+//            synchronized (DesignPattern.Singleton.class){
 //                if(instance==null){
-//                    instance = new Singleton();
+//                    instance = new DesignPattern.Singleton();
 //                }
 //            }
 //        }

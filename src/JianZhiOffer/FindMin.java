@@ -1,3 +1,5 @@
+package JianZhiOffer;
+
 public class FindMin {
     //寻找旋转数组的最小元素
     int solution(int[] data,int low,int high){

@@ -1,3 +1,5 @@
+package SortAlgorithm;
+
 public class QuickSort {
     void recursiveQuickSort(int[] data,int start,int end){
         if(start==end)

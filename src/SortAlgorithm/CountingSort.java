@@ -1,3 +1,5 @@
+package SortAlgorithm;
+
 public class CountingSort {
     //计数排序
     public int[] solution(int[] data,int n){

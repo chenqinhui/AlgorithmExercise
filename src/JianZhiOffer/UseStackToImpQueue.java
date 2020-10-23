@@ -1,3 +1,5 @@
+package JianZhiOffer;
+
 import java.util.Stack;
 
 // 用栈实现队列

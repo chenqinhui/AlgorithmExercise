@@ -1,3 +1,5 @@
+package JianZhiOffer;
+
 public class ReplaceBlank {
     public String solution(String input){
         int count = 0;
